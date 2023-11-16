@@ -623,12 +623,12 @@ layout: default
 ```bash
 bower search kendo
 ```
-<div align="center"><img src="resources/image_39.png" width="40%"></div>
+<div align="center"><img src="/image_39.png" width="40%"></div>
 - Installing libraries
 ```bash
 bower install kendo-ui
 ```
-<div align="center"><img src="resources/image_40.png" width="40%"></div>
+<div align="center"><img src="/image_40.png" width="40%"></div>
 
 
 ---
@@ -720,7 +720,7 @@ cd path/to/app/directory
 yo jhipster
 ```
 <pre>Generates:</pre>
-<div align="center"><img src="resources/image_41.jpg" width="25%"></div>
+<div align="center"><img src="/image_41.jpg" width="25%"></div>
 
 
 ---
