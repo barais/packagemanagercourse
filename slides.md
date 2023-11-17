@@ -619,16 +619,28 @@ layout: default
 
 # Package Management: Bower
 
+<div grid="~ cols-2 gap-2" m="-t-2">
+<div>
 - Searching for libraries
 ```bash
 bower search kendo
 ```
-<div align="center"><img src="/image_39.png" width="40%"></div>
+</div>
+<Transform :scale="0.4">
+<div align="center"><img src="/image_39.png" ></div>
+</Transform>
+
+<div>
 - Installing libraries
 ```bash
 bower install kendo-ui
 ```
-<div align="center"><img src="/image_40.png" width="40%"></div>
+</div>
+<Transform :scale="0.4">
+<div align="center"><img src="/image_40.png"></div>
+</Transform>
+
+</div>
 
 
 ---
@@ -720,7 +732,9 @@ cd path/to/app/directory
 yo jhipster
 ```
 <pre>Generates:</pre>
-<div align="center"><img src="/image_41.jpg" width="25%"></div>
+<Transform :scale="0.4">
+<img src="/image_41.jpg"/>
+</Transform>
 
 
 ---
